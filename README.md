@@ -1,5 +1,5 @@
 # UIAutomationNoon
-Selenium Framwork using POM, DDT, Java, Maven, TestNG for test sign up function of PHPTravels website https://www.phptravels.net/ 
+Selenium Framwork using POM, DDT, Java, Maven, TestNG for test sign up function of noon website https://www.noon.com/egypt-en/ 
 
 ## The Project Components and How it Work?
 I start Maven project that gives the structure, then add all dependencies need in the project like Selenium, TestNG and POI Apache.
