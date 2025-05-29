@@ -30,7 +30,8 @@ public class SignupTest extends BaseTest {
 
     @Test (priority = 3)
     public void SignOut() {
-        homeObject= profileObject.signOut();
+          homeObject= profileObject.signOut();
+//test
     }
 
 }
